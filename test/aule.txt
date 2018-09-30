@@ -1,0 +1,8 @@
+B;20170111;15;giovanni
+B;20160411;12;nicola
+B;20160311;13;giovanni
+B;20160211;11;andrea
+A;20160101;15;utente
+C;20160529;17;federico
+A;20160101;14;francesco
+Tessari;20160605;13;alberto

