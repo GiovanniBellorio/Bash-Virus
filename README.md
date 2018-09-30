@@ -1,3 +1,3 @@
 # bash-virus
 
-CIAO CIAO
+Codice script virus
