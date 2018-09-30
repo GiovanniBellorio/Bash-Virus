@@ -1,0 +1,3 @@
+# bash-virus
+
+CIAO CIAO
