@@ -1,3 +1,3 @@
-# bash-virus
+# Bash-virus
 
 Codice script virus
